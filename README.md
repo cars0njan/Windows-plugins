@@ -4,7 +4,7 @@ useful "plugins" to make your windows computer much smarter!
 ---
 Overview:
 
-Some apps/ scripts that I found useful in making my Windows computer easier to use.
+Some apps/ scripts/ methods that I found useful in making my Windows computer easier to use.
 
 Citation:
 
